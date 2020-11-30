@@ -1,8 +1,2 @@
 # foo
-test
-test
-test
-test
-test
-
-mc1
+asd
