@@ -1,3 +1,1 @@
-# foo
-asd
-meiltest
+# autodeploy
