@@ -4,7 +4,7 @@
   "description": "asd",
   "main": "index.js",
   "scripts": {
-    "test": "echo testing"
+    "test": "echo \"testing\" && exit 0"
   },
   "repository": {
     "type": "git",
